@@ -9,7 +9,7 @@
 
 * Description: Display an 8-bit score from one of two players as a two-digit hexadecimal value.
 * [GitHub repository](https://github.com/NYIT-CNS/cns001-tt02-submission1)
-* [Wokwi](https://wokwi.com/projects/349897691861353044) project
+* [Wokwi](https://wokwi.com/projects/349901899339661908) project
 * Clock: 0 Hz
 * External hardware: None
 
