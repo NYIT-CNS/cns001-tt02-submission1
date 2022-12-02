@@ -28,7 +28,7 @@ Using default settings, increment the first user score up until the second digit
 |---|--------------|--------------|
 | 0 |  Clock   |  segment a  |
 | 1 |  none   |  segment b  |
-| 2 |  none   |  segment c  |
+| 2 |  update   |  segment c  |
 | 3 |  RST   |  segment d  |
 | 4 |  Display Digit  |  segment e  |
 | 5 |  Display User   |  segment f  |
